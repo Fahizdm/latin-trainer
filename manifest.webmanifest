@@ -1,0 +1,24 @@
+{
+  "name": "VCE Latin Daily Trainer",
+  "short_name": "Latin Trainer",
+  "description": "VCE Latin vocabulary, unseen grammar, and seen text revision.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#283e63",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
